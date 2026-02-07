@@ -2,9 +2,9 @@
 
 ### Available algorithms:   
 - Binary Search
-  - Quick Sort
-  - Recursive Array Sum
-  - Selection Sort
+- Quick Sort
+- Recursive Array Sum
+- Selection Sort
 
 ### Also, I wrote the tests for these algorithms you can find in test directory.
 
